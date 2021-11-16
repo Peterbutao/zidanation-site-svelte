@@ -1,0 +1,18 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+:root{
+	--tc: #333;
+	--bc: #fff5ee;
+	--rc: red;
+	--trc: rgba(255, 0, 0, 0.24);
+	--wc: white;
+	--bw: 980px;
+}
+.dark{
+	--bc: hsl(0, 100%, 5%);
+	--tc: seashell;
+}
+
