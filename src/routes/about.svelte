@@ -1,9 +1,3 @@
-<script>
-    import Footer from "$lib/components/footer.svelte";
-    let data;
-</script>
-
-
 <section class="first-section">
     <div class="first-sect">
         <div class="textarea">
@@ -280,7 +274,6 @@
         </div>
 
     </div>
-    <Footer {data}/>
 </section>
 
 <style lang="scss">
