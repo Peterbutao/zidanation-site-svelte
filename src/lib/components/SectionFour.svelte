@@ -25,7 +25,7 @@
 
                 {#if !data}
                  <div class="card" style="background: #4e4e4e; filter: grayscale(50%)">
-                    <img  style="filter: grayscale(80%)" class="song-img" loading="lazy" width="100px" height="100px" src="/src/lib/assets/img/bg.png" alt="song cover">
+                    <img  style="filter: grayscale(80%)" class="song-img" loading="lazy" width="100px" height="100px" src="./bg.png" alt="song cover">
                  
                     <div class="song-title">
                         <p style="color: seashell; filter:opacity(75%)">Songs not found</p>

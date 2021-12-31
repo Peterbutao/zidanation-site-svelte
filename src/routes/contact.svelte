@@ -50,7 +50,7 @@
 
                 <div class="formTitles">
                     <div class="user-img">
-                        <img src="/src/lib/assets/img/face.png"/>
+                        <img src="../src/lib/assets/img/face.png"/>
                     </div>
                     <h3><span>Welcome </span><span class="user-name">{user}</span></h3>
                     <div class="msg ">{error}</div>

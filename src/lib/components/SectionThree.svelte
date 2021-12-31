@@ -28,7 +28,7 @@
 
 <p class="top-title">ALBUM</p>
 {#if !data}
-<section style="filter: grayscale(60%); background-image: url('/src/lib/assets/img/bg.png')" class="fourth-section">
+<section style="filter: grayscale(60%); background-image: url('./bg.png')" class="fourth-section">
     <div class="frth-sect">
         <main>
             <ul class="album-txt-sect">

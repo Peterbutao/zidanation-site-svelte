@@ -8,8 +8,11 @@
 
 
 <script>
+
+   
     $: clip = false;
-    $: dark = false;
+    $: dark = true;
+
 </script>
 
 <div class="layout" class:dark={dark}>

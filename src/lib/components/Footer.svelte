@@ -12,6 +12,8 @@
             }, 3000);
         }
         if(feed !== "") {
+            console.log("sent")
+            /*
             try{
                 const feedback = {
                     feedback: feed
@@ -27,6 +29,7 @@
             }catch(error) {
                 alert(error)
             }
+            */
         }
     }
 

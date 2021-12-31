@@ -1,7 +1,3 @@
-<script>
- import bg from "$lib/assets/img/bg.png";
-</script>
-
 
 <section class="first-section">
     <div class="first-sect">
@@ -48,7 +44,8 @@
         </div>
 
         <div class="imgarea" itemscope itemtype="https://schema.org/ImageObject" >
-            <img width="500px" height="500px" src={bg} alt="logo">
+            <img width="500px" height="500px" src="./bg.png" alt="logo">
+
         </div>
 
     </div>

@@ -14,7 +14,7 @@
 
                 <div class="sng-img">
                     {#if !data}
-                    <img style="filter:grayscale(80%);border:1px var(--tc) solid; opacity:80%;background: black; background-blend-mode:multiply;" src="/src/lib/assets/img/bg.png" loading="lazy" alt="song cover artwork ">
+                    <img style="filter:grayscale(80%);border:1px var(--tc) solid; opacity:80%;background: black; background-blend-mode:multiply;" src="./bg.png" loading="lazy" alt="song cover artwork ">
                     
                     {/if}
                     {#if !!data}

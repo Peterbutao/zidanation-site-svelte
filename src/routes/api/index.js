@@ -18,7 +18,6 @@ export async function get(request) {
         }
     }catch(error) {
         return{
-            status:500,
             body: {
                 songs:[{...error, artist:"try reloading over the network" ,title:"network error"}],
                 albums:[{...error, artist:"try reloading over the network" ,title:"network error"}],

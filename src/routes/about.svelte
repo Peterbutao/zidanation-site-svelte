@@ -18,7 +18,7 @@
         </div>
 
         <div class="imgarea">
-            <img width="500px" height="500px" src="/src/lib/assets/img/bg.png" alt="logo">
+            <img width="500px" height="500px" src="./bg.png" alt="logo">
         </div>
 
         <div id="thenation" class="textarea">
